@@ -81,7 +81,7 @@ function Skills({ darkMode }) {
           color: #fff !important;
         }
       `}</style>
-    </section>
+    </section>          
   );
 }
 
